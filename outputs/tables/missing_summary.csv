@@ -1,0 +1,3 @@
+variable,what_it_measures,valid_codes_or_values,missing_count,invalid_count,total_problem_count,valid_count
+SadOrHopeless,Whether the student felt sad or hopeless,"1, 2",196,0,196,13845
+HowMuchDoYouWeighWithoutShoesInKG,Body weight without shoes in kilograms,numeric values > 0,979,0,979,13062
