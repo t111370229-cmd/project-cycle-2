@@ -1,0 +1,2 @@
+variable,confidence_level,sample_mean,std_error,t_critical,ci_lower,ci_upper
+HowMuchDoYouWeighWithoutShoesInKG,0.95,68.55550815468985,0.14382383422470912,1.9601329640468863,68.27359431621038,68.83742199316931

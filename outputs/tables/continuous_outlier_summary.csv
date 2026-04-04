@@ -1,0 +1,7 @@
+metric,value
+Q1,56.7
+Q3,77.11
+IQR,20.41
+lower_bound,26.085
+upper_bound,107.725
+outlier_count,484.0

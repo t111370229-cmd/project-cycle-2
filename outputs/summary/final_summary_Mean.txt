@@ -1,0 +1,27 @@
+### Mean Interpretation Draft
+
+**Research Question**  
+Is the mean weight of students different from **68.0 kg**?
+
+**中文：**  
+YRBS 2007 資料中，學生平均體重是否與 **68.0 公斤** 不同？
+
+**What was estimated or tested**  
+We estimated the population mean of `HowMuchDoYouWeighWithoutShoesInKG` and tested whether it is different from the benchmark value **μ0 = 68.0**.
+
+**Main numerical results**  
+The sample size was **14041**, the sample mean was **68.5555 kg**, and the sample standard deviation was **17.0424**.  
+The 95% confidence interval was approximately **(68.2736, 68.8374)**.  
+The one-sample t-test produced a test statistic of approximately **3.8624** with a p-value of **0.0001**.
+
+**What the confidence interval means**  
+This confidence interval gives a plausible range for the true population mean weight in the YRBS 2007 sample context. If this study were repeated many times, similarly constructed intervals would capture the true population mean about 95% of the time.
+
+**What the hypothesis test implies**  
+Using the benchmark value **68.0 kg**, the hypothesis test result was: **Reject H0**. This means the sample provides **enough** evidence that the true population mean is different from **68.0 kg**.
+
+**Whether the inferential result is consistent with what we saw in EDA**  
+The continuous EDA described the sample size, center, spread, quartiles, histogram shape, boxplot pattern, possible outliers, and the ECDF pattern. The inferential result should be interpreted together with those EDA findings to see whether the sample mean visually appears close to or different from the benchmark.
+
+**What should be interpreted cautiously**  
+The result should be interpreted carefully because the weight variable may contain extreme values, and the final outcome also depends on the treatment of missing or invalid values.

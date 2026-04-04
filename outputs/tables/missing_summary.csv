@@ -1,8 +1,3 @@
-Column,MissingCount,MissingRatio(%)
-CurrentAlcoholUse,1372,9.771383804572324
-HowTallAreYouWithoutShoesInMeters,979,6.972437860551242
-HowMuchDoYouWeighWithoutShoesInKG,979,6.972437860551242
-BMIPCT,979,6.972437860551242
-CurrentCigaretteUse,718,5.113595897728082
-EverCigaretteUse,440,3.1336799373264017
-SadOrHopeless,196,1.3959119720817605
+variable,what_it_measures,valid_codes_or_values,missing_count,invalid_count,total_problem_count,valid_count
+SadOrHopeless,Whether the student felt sad or hopeless,"1, 2",196,0,196,13845
+HowMuchDoYouWeighWithoutShoesInKG,Body weight without shoes in kilograms,numeric values > 0,979,0,979,13062
