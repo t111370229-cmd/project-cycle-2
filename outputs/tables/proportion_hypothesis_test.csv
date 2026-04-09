@@ -1,0 +1,2 @@
+null_hypothesis,alternative_hypothesis,sample_proportion_p_hat,benchmark_p0,standard_error_under_H0,z_statistic,p_value,alpha,decision
+p = 0.30,p != 0.30,0.2994800940103981,0.3,0.0038673246179854112,-0.13443557005378048,0.893058156077476,0.050000000000000044,Do not reject H0
