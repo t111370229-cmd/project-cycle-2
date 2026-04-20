@@ -1,24 +1,24 @@
 ### Proportion Interpretation Draft
 
 **Research Question**  
-Is the proportion of students who felt sad or hopeless different from **0.30**?
+Is the proportion of students who felt sad or hopeless different from **0.40**?
 
 **中文：**  
-YRBS 2007 資料中，感到 sad or hopeless 的學生比例是否與 **0.30** 不同？
+YRBS 2007 資料中，感到 sad or hopeless 的學生比例是否與 **0.40** 不同？
 
 **What was estimated or tested**  
-We estimated the population proportion of students who felt sad or hopeless and tested whether this proportion is different from the benchmark value **p0 = 0.30**.
+We estimated the population proportion of students who felt sad or hopeless and tested whether this proportion is different from the benchmark value **p0 = 0.40**.
 
 **Main numerical results**  
 The sample proportion was approximately **0.2995**, based on a final sample size of **14041**.  
 The 95% confidence interval was approximately **(0.2919, 0.3071)**.  
-The one-sample proportion test produced a test statistic of approximately **-0.1344** with a p-value of **0.8931**.
+The one-sample proportion test produced a test statistic of approximately **-24.3134** with a p-value of **0.0000**.
 
 **What the confidence interval means**  
 This confidence interval gives a plausible range for the true population proportion of students who felt sad or hopeless in the YRBS 2007 sample context. If this study were repeated many times, similarly constructed intervals would capture the true population proportion about 95% of the time.
 
 **What the hypothesis test implies**  
-Using the benchmark value **0.30**, the hypothesis test result was: **Do not reject H0**. This means the sample provides **enough** evidence that the true population proportion is different from **0.30**.
+Using the benchmark value **0.40**, the hypothesis test result was: **Reject H0**. This means the sample provides **enough** evidence that the true population proportion is different from **0.40**.
 
 **Whether the inferential result is consistent with what we saw in EDA**  
 The behavior EDA showed the original code frequencies, the binary recoding outcome, the success/failure composition, and the missing or invalid value count. The inferential result should be interpreted together with those EDA displays to confirm whether the observed sample proportion visually appears above, below, or close to the benchmark.

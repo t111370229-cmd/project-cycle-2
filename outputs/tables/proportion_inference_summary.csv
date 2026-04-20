@@ -1,2 +1,2 @@
 analysis,variable,sample_size_n,sample_proportion_p_hat,benchmark_p0,confidence_level,ci_lower,ci_upper,z_statistic,p_value,decision
-Proportion Analysis,SadOrHopeless,14041,0.2994800940103981,0.3,0.95,0.2919040359883428,0.3070561520324534,-0.13443557005378048,0.893058156077476,Do not reject H0
+Proportion Analysis,SadOrHopeless,14041,0.2994800940103981,0.4,0.95,0.2919040359883428,0.3070561520324534,-24.313387542816493,0.0,Reject H0

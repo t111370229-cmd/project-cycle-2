@@ -1,2 +1,2 @@
 variable,null_hypothesis,alternative_hypothesis,sample_size_n,sample_mean,sample_std_dev,test_statistic_t,degrees_of_freedom,p_value,alpha,decision
-HowMuchDoYouWeighWithoutShoesInKG,mu = 68.0,mu != 68.0,14041,68.55550815468985,17.04236577421948,3.8624207015780514,14040,0.00011277306661927611,0.05,Reject H0
+HowMuchDoYouWeighWithoutShoesInKG,mu = 65.5,mu != 65.5,14041,68.55550815468985,17.04236577421948,21.244796950107357,14040,0.0,0.05,Reject H0

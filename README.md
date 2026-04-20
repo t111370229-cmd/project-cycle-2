@@ -12,16 +12,16 @@
 - **Continuous Variable (Mean Analysis):** `HowMuchDoYouWeighWithoutShoesInKG`
 
 ## Benchmark Values
-- **SadOrHopeless:** (p0 = 0.30)
-- **HowMuchDoYouWeighWithoutShoesInKG:** (µ0 = 68.0)
+- **SadOrHopeless:** (p0 = 0.40)
+- **HowMuchDoYouWeighWithoutShoesInKG:** (µ0 = 65.5)
 
 ## Short Project Questions
 
 ### Proportion Analysis
-Is the proportion of students who felt sad or hopeless different from 0.30?
+Is the proportion of students who felt sad or hopeless different from 0.40?
 
 ### Mean Analysis
-Is the mean weight of students different from 68.0 kg?
+Is the mean weight of students different from 65.5 kg?
 
 ## Project Workflow
 This project follows the recommended workflow:
